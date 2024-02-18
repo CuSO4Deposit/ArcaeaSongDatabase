@@ -1,1 +1,3 @@
-`difficulty` and `rating` are not maintained in this repo for new songs.
+Column`difficulty` is altered to `TEXT`.
+
+File `arcsong.json` is no longer maintained.
